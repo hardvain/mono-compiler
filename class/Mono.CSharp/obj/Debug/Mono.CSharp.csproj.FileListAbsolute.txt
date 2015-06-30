@@ -1,0 +1,4 @@
+C:\Users\aravindh\Desktop\mcs\class\Mono.CSharp\bin\Debug\Mono.CSharp.dll
+C:\Users\aravindh\Desktop\mcs\class\Mono.CSharp\bin\Debug\Mono.CSharp.pdb
+C:\Users\aravindh\Desktop\mcs\class\Mono.CSharp\obj\Debug\Mono.CSharp.dll
+C:\Users\aravindh\Desktop\mcs\class\Mono.CSharp\obj\Debug\Mono.CSharp.pdb

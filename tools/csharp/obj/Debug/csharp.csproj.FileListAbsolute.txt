@@ -1,0 +1,7 @@
+C:\Users\aravindh\Desktop\mcs\tools\csharp\bin\Debug\csharp.exe
+C:\Users\aravindh\Desktop\mcs\tools\csharp\bin\Debug\csharp.pdb
+C:\Users\aravindh\Desktop\mcs\tools\csharp\bin\Debug\Mono.CSharp.dll
+C:\Users\aravindh\Desktop\mcs\tools\csharp\bin\Debug\Mono.CSharp.pdb
+C:\Users\aravindh\Desktop\mcs\tools\csharp\obj\Debug\csharp.csprojResolveAssemblyReference.cache
+C:\Users\aravindh\Desktop\mcs\tools\csharp\obj\Debug\csharp.exe
+C:\Users\aravindh\Desktop\mcs\tools\csharp\obj\Debug\csharp.pdb
